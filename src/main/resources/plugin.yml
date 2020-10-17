@@ -1,0 +1,9 @@
+name: AdView
+version: 1.0
+author: Blario123_
+main: com.blario123.github.Main
+commands:
+  adview:
+    description: View players advancements
+    usage: /<command> [player]
+    permission: AdView.View

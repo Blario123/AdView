@@ -1,0 +1,529 @@
+{
+  "nether": {
+    "name": "Nether",
+    "item": "red_nether_bricks",
+    "pos": 47,
+    "sub": {
+      "nether": {
+        "name": "Nether",
+        "pos": 10,
+        "item": "red_nether_bricks"
+      },
+      "return_to_sender": {
+        "name": "Return to Sender",
+        "pos": 11,
+        "item": "fire_charge"
+      },
+      "those_were_the_days": {
+        "name": "Those Were the Days",
+        "pos": 12,
+        "item": "polished_blackstone_bricks"
+      },
+      "hidden_in_the_depths": {
+        "name": "Hidden in the Depths",
+        "pos": 13,
+        "item": "ancient_debris"
+      },
+      "subspace_bubble": {
+        "name": "Subspace Bubble",
+        "pos": 14,
+        "item": "map"
+      },
+      "a_terrible_fortress": {
+        "name": "A Terrible Fortress",
+        "pos": 15,
+        "item": "nether_bricks"
+      },
+      "who_is_cutting_onions": {
+        "name": "Who is Cutting Onions?",
+        "pos": 16,
+        "item": "crying_obsidian"
+      },
+      "oh_shiny": {
+        "name": "Oh Shiny",
+        "pos": 17,
+        "item": "gold_ingot"
+      },
+      "this_boat_has_legs": {
+        "name": "This Boat Has Legs",
+        "pos": 18,
+        "item": "warped_fungus_on_a_stick"
+      },
+      "uneasy_alliance": {
+        "name": "Uneasy Alliance",
+        "pos": 19,
+        "item": "ghast_tear"
+      },
+      "war_pigs": {
+        "name": "War Pigs",
+        "pos": 20,
+        "item": "chest"
+      },
+      "country_lode_take_me_home": {
+        "name": "Country Load, Take Me Home",
+        "pos": 21,
+        "item": "lodestone"
+      },
+      "cover_me_in_debris": {
+        "name": "Cover Me in Debris",
+        "pos": 22,
+        "item": "netherite_chestplate"
+      },
+      "spooky_scary_skeleton": {
+        "name": "Spooky Scary Skeleton",
+        "pos": 23,
+        "item": "wither_skeleton_skull"
+      },
+      "into_fire": {
+        "name": "Into Fire",
+        "pos": 24,
+        "item": "blaze_rod"
+      },
+      "not_quite_nine_lives": {
+        "name": "Not Quite \"Nine\"Lives",
+        "pos": 25,
+        "item": "respawn_anchor"
+      },
+      "hot_tourist_destinations": {
+        "name": "Hot Tourist Destinations",
+        "pos": 26,
+        "item": "netherite_boots"
+      },
+      "withering_heights": {
+        "name": "Withering Heights",
+        "pos": 27,
+        "item": "nether_star"
+      },
+      "local_brewery": {
+        "name": "Local Brewery",
+        "pos": 28,
+        "item": "potion"
+      },
+      "bring_home_the_beacon": {
+        "name": "Bring Home the Beacon",
+        "pos": 29,
+        "item": "beacon"
+      },
+      "a_furious_cocktail": {
+        "name": "A Furious Cocktail",
+        "pos": 30,
+        "item": "milk_bucket"
+      },
+      "beaconator": {
+        "name": "Beaconator",
+        "pos": 31,
+        "item": "beacon"
+      },
+      "how_did_we_get_here": {
+        "name": "How Did We Get Here?",
+        "pos": 32,
+        "item": "bucket"
+      }
+    }
+  },
+  "adventure": {
+    "name": "Adventure",
+    "item": "map",
+    "pos": 48,
+    "sub": {
+      "adventure": {
+        "name": "Adventure",
+        "pos": 10,
+        "item": "map"
+      },
+      "voluntary_exile": {
+        "name": "Voluntary Exile",
+        "pos": 11,
+        "item": "white_banner",
+        "itemNBT": {
+          "tag": {
+            "BlockEntityTag": {
+              "Patterns": {
+                "1": {
+                  "color": 9,
+                  "pattern": "mr"
+                },
+                "2": {
+                  "color": 8,
+                  "pattern": "bs"
+                },
+                "3": {
+                  "color": 7,
+                  "pattern": "cs"
+                },
+                "4": {
+                  "color": 8,
+                  "pattern": "bo"
+                },
+                "5": {
+                  "color": 15,
+                  "pattern": "ms"
+                },
+                "6": {
+                  "color": 8,
+                  "pattern": "hh"
+                },
+                "7": {
+                  "color": 8,
+                  "pattern": "mc"
+                },
+                "8": {
+                  "color": 15,
+                  "pattern": "bo"
+                }
+              }
+            },
+            "display": {
+              "Name": {
+                "color": "gold",
+                "translate": "block.minecraft.ominous_banner"
+              }
+            }
+          }
+        }
+      },
+      "monster_hunter": {
+        "name": "Monster Hunter",
+        "pos": 12,
+        "item": "iron_sword"
+      },
+      "what_a_deal": {
+        "name": "What a Deal!",
+        "pos": 13,
+        "item": "emerald"
+      },
+      "sticky_situation": {
+        "name": "Sticky Situation",
+        "pos": 14,
+        "item": "honey_block"
+      },
+      "ol_betsy": {
+        "name": "Ol' Betsy",
+        "pos": 15,
+        "item": "crossbow"
+      },
+      "sweet_dreams": {
+        "name": "Sweet Dreams",
+        "pos": 16,
+        "item": "red_bed"
+      },
+      "hero_of_the_village": {
+        "name": "Hero of the Village",
+        "pos": 17,
+        "item": "white_banner",
+        "itemNBT": {
+          "tag": {
+            "BlockEntityTag": {
+              "Patterns": {
+                "1": {
+                  "color": 9,
+                  "pattern": "mr"
+                },
+                "2": {
+                  "color": 8,
+                  "pattern": "bs"
+                },
+                "3": {
+                  "color": 7,
+                  "pattern": "cs"
+                },
+                "4": {
+                  "color": 8,
+                  "pattern": "bo"
+                },
+                "5": {
+                  "color": 15,
+                  "pattern": "ms"
+                },
+                "6": {
+                  "color": 8,
+                  "pattern": "hh"
+                },
+                "7": {
+                  "color": 8,
+                  "pattern": "mc"
+                },
+                "8": {
+                  "color": 15,
+                  "pattern": "bo"
+                }
+              }
+            },
+            "display": {
+              "Name": {
+                "color": "gold",
+                "translate": "block.minecraft.ominous_banner"
+              }
+            }
+          }
+        }
+      },
+      "a_throwaway_joke": {
+        "name": "A Throwaway Joke",
+        "pos": 18,
+        "item": "trident"
+      },
+      "take_aim": {
+        "name": "Take Aim",
+        "pos": 19,
+        "item": "bow"
+      },
+      "monsters_hunted": {
+        "name": "Monsters Hunted",
+        "pos": 20,
+        "item": "diamond_sword"
+      },
+      "postmortal": {
+        "name": "Postmortal",
+        "pos": 21,
+        "item": "totem_of_undying"
+      },
+      "hired_help": {
+        "name": "Hired Help",
+        "pos": 22,
+        "item": "carved_pumpkin"
+      },
+      "two_birds_one_arrow": {
+        "name": "Two Birds, One Arrow",
+        "pos": 23,
+        "item": "crossbow"
+      },
+      "whos_the_pillager_now": {
+        "name": "Who's the Pillager Now?",
+        "pos": 24,
+        "item": "crossbow"
+      },
+      "arbalistic": {
+        "name": "Arbalistic",
+        "pos": 25,
+        "item": "crossbow"
+      },
+      "adventuring_time": {
+        "name": "Adventuring Time",
+        "pos": 26,
+        "item": "diamond_boots"
+      },
+      "very_very_frightening": {
+        "name": "Very Very Frightening",
+        "pos": 27,
+        "item": "trident"
+      },
+      "sniper_duel": {
+        "name": "Sniper Duel",
+        "pos": 28,
+        "item": "arrow"
+      },
+      "bullseye": {
+        "name": "Bullseye",
+        "pos": 29,
+        "item": "target"
+      }
+    }
+  },
+  "the_end": {
+    "name": "The End",
+    "item": "end_stone",
+    "pos": 49,
+    "sub": {
+      "the_end": {
+        "name": "The End",
+        "pos": 10,
+        "item": "end_stone"
+      },
+      "free_the_end": {
+        "name": "Free the End",
+        "pos": 11,
+        "item": "dragon_head"
+      },
+      "the_next_generation": {
+        "name": "The Next Generation",
+        "pos": 12,
+        "item": "dragon_egg"
+      },
+      "remote_getaway": {
+        "name": "Remote Getaway",
+        "pos": 13,
+        "item": "ender_pearl"
+      },
+      "the_end_again": {
+        "name": "The End... Again...",
+        "pos": 14,
+        "item": "end_crystal"
+      },
+      "you_need_a_mint": {
+        "name": "You Need a Mint",
+        "pos": 15,
+        "item": "dragon_breath"
+      },
+      "the_city_at_the_end_of_the_game": {
+        "name": "The City at the End of the Game",
+        "pos": 16,
+        "item": "purpur_block"
+      },
+      "skys_the_limit": {
+        "name": "Sky's the Limit",
+        "pos": 17,
+        "item": "elytra"
+      },
+      "great_view_from_up_here": {
+        "name": "Great View From Up Here",
+        "pos": 18,
+        "item": "shulker_shell"
+      }
+    }
+  },
+  "husbandry": {
+    "name": "Husbandry",
+    "item": "hay_block",
+    "pos": 50,
+    "sub": {
+      "husbandry": {
+        "name": "Husbandry",
+        "pos": 10,
+        "item": "hay_block"
+      },
+      "bee_our_guest": {
+        "name": "Bee Our Guest",
+        "pos": 11,
+        "item": "honey_bottle"
+      },
+      "the_parrots_and_the_bats": {
+        "name": "The Parrots and the Bats",
+        "pos": 12,
+        "item": "wheat"
+      },
+      "best_friends_forever": {
+        "name": "Best Friends Forever",
+        "pos": 13,
+        "item": "lead"
+      },
+      "fishy_business": {
+        "name": "Fishy Business",
+        "pos": 14,
+        "item": "fishing_rod"
+      },
+      "total_beelocation": {
+        "name": "Total Beelocation",
+        "pos": 15,
+        "item": "bee_nest"
+      },
+      "a_seedy_place": {
+        "name": "A Seedy Place",
+        "pos": 16,
+        "item": "wheat"
+      },
+      "two_by_two": {
+        "name": "Two by Two",
+        "pos": 17,
+        "item": "golden_carrot"
+      },
+      "a_complete_catalogue": {
+        "name": "A Complete Catalogue",
+        "pos": 18,
+        "item": "cooked_cod"
+      },
+      "tactical_fishing": {
+        "name": "Tactical Fishing",
+        "pos": 19,
+        "item": "pufferfish_bucket"
+      },
+      "a_balanced_diet": {
+        "name": "A Balanced Diet",
+        "pos": 20,
+        "item": "apple"
+      },
+      "serious_dedication": {
+        "name": "Serious Dedication",
+        "pos": 21,
+        "item": "netherite_hoe"
+      }
+    }
+  },
+  "minecraft":{
+    "name": "Minecraft",
+    "item": "grass_block",
+    "pos": 51,
+    "sub": {
+      "minecraft": {
+        "name": "Minecraft",
+        "pos": 10,
+        "item": "grass_block"
+      },
+      "stone_age": {
+        "name": "Stone Age",
+        "pos": 11,
+        "item": "wooden_pickaxe"
+      },
+      "getting_an_upgrade": {
+        "name": "Getting an Upgrade",
+        "pos": 12,
+        "item": "stone_pickaxe"
+      },
+      "acquire_hardware": {
+        "name": "Acquire Hardware",
+        "pos": 13,
+        "item": "iron_ingot"
+      },
+      "suit_up": {
+        "name": "Suit Up",
+        "pos": 14,
+        "item": "iron_chestplate"
+      },
+      "hot_stuff": {
+        "name": "Hot Stuff",
+        "pos": 15,
+        "item": "lava_bucket"
+      },
+      "isnt_it_iron_pick": {
+        "name": "Isn't It Iron Pick",
+        "pos": 16,
+        "item": "iron_pickaxe"
+      },
+      "not_today_thank_you": {
+        "name": "Not Today, Thank You",
+        "pos": 17,
+        "item": "shield"
+      },
+      "ice_bucket_challenge": {
+        "name": "Ice Bucket Challenge",
+        "pos": 18,
+        "item": "obsidian"
+      },
+      "diamonds": {
+        "name": "Diamonds!",
+        "pos": 19,
+        "item": "diamond"
+      },
+      "we_need_to_go_deeper": {
+        "name": "We Need to Go Deeper",
+        "pos": 20,
+        "item": "flint_and_steel"
+      },
+      "cover_me_with_diamonds": {
+        "name": "Cover Me With Diamonds",
+        "pos": 21,
+        "item": "diamond_chestplate"
+      },
+      "enchanter": {
+        "name": "Enchanter",
+        "pos": 22,
+        "item": "enchanted_book"
+      },
+      "zombie_doctor": {
+        "name": "Zombie Doctor",
+        "pos": 23,
+        "item": "golden_apple"
+      },
+      "eye_spy": {
+        "name": "Eye Spy",
+        "pos": 24,
+        "item": "ender_eye"
+      },
+      "the_end": {
+        "name": "The End?",
+        "pos": 25,
+        "item": "end_stone"
+      }
+    }
+  }
+}
